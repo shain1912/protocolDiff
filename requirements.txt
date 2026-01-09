@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+opencv-python
+requests
+pyzmq
+aiortc
+grpcio
+grpcio-tools
+ultralytics
+supervision
+aiohttp
+numpy
+supabase
